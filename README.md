@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @calebcoomer
+- 👋 Hi, I’m calebcoomer
 - 👀 I’m interested in python, SQL, R, video games!
 - 🌱 I’m currently learning statistics and data analysis at UCF
 - 💞️ I’m looking to collaborate on 🥺🥺 idk yet
